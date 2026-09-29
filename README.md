@@ -39,4 +39,5 @@ Personal automation project with a web dashboard, Telegram Mini App and backgrou
 ## Connect
 
 [@alinur527](https://github.com/alinur527)
-[Telegram: ](https://t.me/Flanate1)
+
+[Telegram:@Flanate1](https://t.me/Flanate1)

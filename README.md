@@ -26,6 +26,14 @@ Started with team Exit 1 at HackAlem and expanded into a standalone engineering 
 
 ## Other Projects
 
+### Education App · Private
+
+Full-stack educational platform for Kazakhstan focused on **ENT / ҰБТ preparation** and additional courses.
+
+Includes bilingual **RU/KZ** curriculum, theory and practice flows, typed assessments, real student analytics, Teacher/Admin CMS, LMS courses and groups, assignments, study planning, reminders, protected materials and PWA/offline reading.
+
+**Stack:** React · TypeScript · Vite · Java 21 · Spring Boot · PostgreSQL · Flyway · Docker · GitHub Actions · Playwright
+
 ### [LifeOS / Personal Assistant](https://github.com/alinur527/personal-assistant)
 
 Personal automation project with a web dashboard, Telegram Mini App and background reminder workers, organized around shared domain logic.
